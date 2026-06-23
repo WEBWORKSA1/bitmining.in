@@ -1,0 +1,6 @@
+{
+  "name": "BitMining.in",
+  "description": "Premium Clean-Energy Bitcoin Mining Intelligence & Sponsorship Hub for India's Growing Green Hashrate Economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
